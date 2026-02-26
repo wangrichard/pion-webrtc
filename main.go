@@ -40,6 +40,7 @@ var (
 )
 
 // add comment
+// another comment
 func main() {
 	imgDelta = gocv.NewMat()
 	imgThresh = gocv.NewMat()
