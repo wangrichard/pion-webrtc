@@ -39,6 +39,7 @@ var (
 	indexHTML string
 )
 
+// add comment
 func main() {
 	imgDelta = gocv.NewMat()
 	imgThresh = gocv.NewMat()
